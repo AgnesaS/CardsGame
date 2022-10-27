@@ -56,7 +56,7 @@ struct ContentView: View {
                         Spacer()
                         VStack(){
                             Button(action: {
-                              //  score1 += 1
+                    
                             }, label: {
                                 Text("Player1")
                                     .font(.headline)
